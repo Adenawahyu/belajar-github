@@ -3,3 +3,4 @@ git adalah github
 git adalah vcs
 git adalah tempat push dan pull
 Menambahkan coba2
+git coba 1
